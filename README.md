@@ -2,8 +2,11 @@
 
 一套装给 Claude Code / Codex 的技能组合：两个技能帮项目搭好 agent 知识库，十七个技能负责从想法到合并的开发流程。
 
-> 技能来自两位作者。开发层的 17 个技能原样取自 [mattpocock/skills](https://github.com/mattpocock/skills)（MIT）；环境层的 2 个技能改编自 [simbajigege/book2skills](https://github.com/simbajigege/book2skills)（Apache-2.0）。如果这套东西对你有用，请先去给两位上游点 star。
+
 > 收录版本：mattpocock/skills v1.3.2（commit `d1478fc`）；book2skills 的 harness 技能对应 commit `a707ed3`（2026-07-13）。
+> 技能来自两位作者，如果这套东西对你有用，请先去给两位上游点 star。
+  (1) 开发层的 17 个技能原样取自 [mattpocock/skills](https://github.com/mattpocock/skills)（MIT）；
+  (2）环境层的 2 个技能改编自 [simbajigege/book2skills](https://github.com/simbajigege/book2skills)（Apache-2.0）。
 > 归属细节见 [CREDITS.md](CREDITS.md)，逐条修改清单见 [UPSTREAM-CHANGES.md](UPSTREAM-CHANGES.md)。
 
 ## 为什么有这个仓库
