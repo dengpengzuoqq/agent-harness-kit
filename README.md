@@ -37,7 +37,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/dengpeng.zuo/agent-harness-kit.git
+git clone https://github.com/dengpengzuoqq/agent-harness-kit.git
 cd agent-harness-kit
 ./scripts/install.sh
 ```
